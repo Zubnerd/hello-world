@@ -1,3 +1,3 @@
 # hello-world
-The first one 
+The first one <s> 
 New programmer wanting freedom from Jeff Bezos empire of torture.
